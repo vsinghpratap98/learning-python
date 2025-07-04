@@ -1,1 +1,1 @@
-learning python and writing python program daily
+learning python fundamentals from basics to advance
